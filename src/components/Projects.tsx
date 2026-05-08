@@ -20,6 +20,19 @@ const projects = [
         image: img1,
     },
 
+
+    {
+        id: 3,
+        title: "Site de cabinet Architecture (ABM·Consulting)",
+        description:
+            "Mise en place d’un site pour un cabinet d’architecture avec  prise de RDV",
+        technologies: ["React", "Tailwind CSS"],
+        demoLink: "https://abmconsulting.vercel.app/",
+        // repoLink: "#",
+        image: img3,
+    },
+
+
     {
         id: 2,
         title: "App mobile & Backend (AyimolouMap)",
@@ -31,17 +44,6 @@ const projects = [
         repoLinkFrontend:
             "https://github.com/OTISDav/ayimlouMapFrontend.git",
         image: img2,
-    },
-
-    {
-        id: 3,
-        title: "Site de cabinet Architecture (ABM·Consulting)",
-        description:
-            "Mise en place d’un site pour un cabinet d’architecture avec  prise de RDV",
-        technologies: ["React", "Tailwind CSS"],
-        demoLink: "https://abmconsulting.vercel.app/",
-        // repoLink: "#",
-        image: img3,
     },
 
 
